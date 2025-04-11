@@ -75,6 +75,22 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  font_awesome_flutter:
+    dependency: transitive
+    description:
+      name: font_awesome_flutter
+      sha256: d3a89184101baec7f4600d58840a764d2ef760fe1c5a20ef9e6b0e9b24a07a3a
+      url: "https://pub.dev"
+    source: hosted
+    version: "10.8.0"
+  font_awesome_flutter_named:
+    dependency: "direct main"
+    description:
+      name: font_awesome_flutter_named
+      sha256: ed0a376065c70d0ea538b6e19aa1a602f1ae033c6ac8e5961433f9e8b119fcff
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.2+1"
   leak_tracker:
     dependency: transitive
     description:
